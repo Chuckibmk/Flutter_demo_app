@@ -1,6 +1,6 @@
 # firstproject
 
-A new Flutter project.
+Novice Learn Flutter project.
 
 ## Getting Started
 
